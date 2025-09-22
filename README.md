@@ -39,14 +39,14 @@ Kalau dijalankan di browser:
 2. Klik menu navigasi → pindah ke `lab1_halaman2.html` buat lihat detail hobi.  
 
 Jawaban Pertanyaan
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+1.Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
 Kalau kita ubah isi kode (misalnya mengganti teks, menambah paragraf, atau mengganti gambar) hasil di browser akan ikut berubah.
 Tapi kalau ada kesalahan penulisan tag (misalnya <p> ditulis <pp>, atau lupa menutup tag), biasanya:
 Browser tetap berusaha menampilkan halaman, tapi tampilannya bisa jadi berantakan.
 Tidak muncul pesan error langsung, tapi struktur HTML jadi tidak sesuai aturan.
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2.Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 <p> digunakan untuk membuat paragraf baru. Browser otomatis memberi jarak (spasi) sebelum dan sesudah paragraf.
 <br> digunakan untuk membuat baris baru (line break) tanpa jarak tambahan. Jadi teks langsung turun ke bawah tapi masih dalam paragraf yang sama.
 Contoh:  
