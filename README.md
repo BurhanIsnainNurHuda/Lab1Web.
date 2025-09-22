@@ -56,5 +56,15 @@ Contoh:
 ```html
 <p>Ini paragraf pertama.</p>
 <p>Ini paragraf kedua.</p>
+Baris pertama <br> Baris kedua```,
 
-Baris pertama <br> Baris kedua
+
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+
+title → teks yang muncul saat kursor diarahkan ke gambar (tooltip).
+
+alt → teks alternatif yang muncul kalau gambar gagal dimuat (misalnya file gambar hilang). Selain itu, alt juga dipakai oleh screen reader (aksesibilitas).
+
+Contoh:
+
+<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness">
