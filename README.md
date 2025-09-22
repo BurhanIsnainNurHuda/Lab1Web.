@@ -70,3 +70,13 @@ Contoh:
 Sebaiknya cukup salah satu saja yang diisi `(biasanya width).`
 Kalau `width dan height` diisi sembarangan, gambar bisa jadi gepeng atau melebar tidak sesuai proporsi aslinya.
 Kalau hanya `width` diisi → browser otomatis menyesuaikan `height` agar tetap proporsional.
+
+5.Pada link tambahkan atribut target dengan nilai atribut bervariasi `(_blank, _self, _top, _parent)`, apa yang terjadi pada masing-masing nilai atribut tersebut?
+
+`_blank` yaitu untuk buka link di tab/jendela baru.
+
+`_self` yaitu untuk buka link di halaman yang sama (default).
+
+`_top` yaitu untuk buka link di jendela penuh, menghapus semua frame (kalau pakai frame).
+
+`_parent` yaitu untuk buka link di halaman induk (kalau ada frame dalam frame).
