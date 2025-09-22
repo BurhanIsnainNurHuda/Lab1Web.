@@ -48,7 +48,7 @@ Tapi kalau ada kesalahan penulisan tag (misalnya <p> ditulis <pp>, atau lupa men
 Browser tetap berusaha menampilkan halaman, tapi tampilannya bisa jadi berantakan.
 Tidak muncul pesan error langsung, tapi struktur HTML jadi tidak sesuai aturan.
 
-2. Apa perbedaan dari ```tag <p> dengan tag <br>,``` berikan penjelasannya!
+2.Apa perbedaan dari ```tag <p> dengan tag <br>,``` berikan penjelasannya!
 yaitu ```<p>``` digunakan untuk membuat paragraf baru. Browser otomatis memberi jarak (spasi) sebelum dan sesudah paragraf.
 ```<br>``` digunakan untuk membuat baris baru (line break) tanpa jarak tambahan. Jadi teks langsung turun ke bawah tapi masih dalam paragraf yang sama.
 Contoh:  
@@ -56,7 +56,7 @@ Contoh:
 `<p>Ini paragraf kedua.</p>`
 `Baris pertama <br> Baris kedua`
 
-3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`?
+3.Apa perbedaan atribut `title` dan `alt` pada tag `<img>`?
 `title` → teks yang muncul saat kursor diarahkan ke gambar (tooltip).  
 `alt` → teks alternatif yang muncul kalau gambar gagal dimuat (misalnya file gambar hilang). Selain itu, `alt` juga dipakai oleh screen reader (aksesibilitas).  
 
@@ -65,7 +65,7 @@ Contoh:
 
 `<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness">`
 
-4. Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
+4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
 
 Sebaiknya cukup salah satu saja yang diisi `(biasanya width).`
 Kalau `width dan height` diisi sembarangan, gambar bisa jadi gepeng atau melebar tidak sesuai proporsi aslinya.
