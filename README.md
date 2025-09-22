@@ -62,13 +62,15 @@ html
 `title` → teks yang muncul saat kursor diarahkan ke gambar (tooltip).  
 `alt` → teks alternatif yang muncul kalau gambar gagal dimuat (misalnya file gambar hilang). Selain itu, `alt` juga dipakai oleh screen reader (aksesibilitas).  
 
+```html
 Contoh:  
-
-`html
-`<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness">`
+`<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness"> ```
 
 
-```html 4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
+
+`---`
+
+4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
 
 Sebaiknya cukup salah satu saja yang diisi `(biasanya width).`
 Kalau `width dan height` diisi sembarangan, gambar bisa jadi gepeng atau melebar tidak sesuai proporsi aslinya.
@@ -85,6 +87,6 @@ Kalau hanya `width` diisi → browser otomatis menyesuaikan `height` agar tetap 
 `_parent` yaitu untuk buka link di halaman induk (kalau ada frame dalam frame).
 
 Contoh:
-```html
+``` html
 <a href="https://www.google.com" target="_blank">Google (tab baru)</a>
 <a href="lab1_tag_dasar.html" target="_self">Halaman Utama</a>
