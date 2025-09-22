@@ -51,7 +51,7 @@ Tidak muncul pesan error langsung, tapi struktur HTML jadi tidak sesuai aturan.
 2.Apa perbedaan dari ```tag <p> dengan tag <br>,``` berikan penjelasannya!
 yaitu ```<p>``` digunakan untuk membuat paragraf baru. Browser otomatis memberi jarak (spasi) sebelum dan sesudah paragraf.
 ```<br>``` digunakan untuk membuat baris baru (line break) tanpa jarak tambahan. Jadi teks langsung turun ke bawah tapi masih dalam paragraf yang sama.
-Contoh:  
+```html Contoh:  
 `<p>Ini paragraf pertama.</p>`
 `<p>Ini paragraf kedua.</p>`
 `Baris pertama <br> Baris kedua`
@@ -62,10 +62,11 @@ Contoh:
 
 Contoh:  
 
+```html
+`<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness"> html```
 
-`<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness">`
 
-4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
+```html 4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
 
 Sebaiknya cukup salah satu saja yang diisi `(biasanya width).`
 Kalau `width dan height` diisi sembarangan, gambar bisa jadi gepeng atau melebar tidak sesuai proporsi aslinya.
