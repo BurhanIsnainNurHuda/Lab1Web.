@@ -80,3 +80,8 @@ Kalau hanya `width` diisi → browser otomatis menyesuaikan `height` agar tetap 
 `_top` yaitu untuk buka link di jendela penuh, menghapus semua frame (kalau pakai frame).
 
 `_parent` yaitu untuk buka link di halaman induk (kalau ada frame dalam frame).
+
+Contoh:
+```html
+<a href="https://www.google.com" target="_blank">Google (tab baru)</a>
+<a href="lab1_tag_dasar.html" target="_self">Halaman Utama</a>
