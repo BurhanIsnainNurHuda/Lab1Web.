@@ -21,7 +21,7 @@ Project ini dibuat sebagai bagian dari praktikum Pemrograman Web.
 
 <img width="1915" height="680" alt="image" src="https://github.com/user-attachments/assets/09e2ff7a-b022-4bf9-8d62-9538bee925ad" />
 
-# Code Codingan
+# Code HTML
 
     <!DOCTYPE html>
     <html>
