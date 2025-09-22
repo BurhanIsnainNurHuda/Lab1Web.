@@ -67,6 +67,50 @@ Halaman ini bisa dibilang sebagai **pintu masuk**.
  Footer di bawah buat nandain hak cipta.  
 
 #  lab1_halaman2.html
+
+<img width="1898" height="896" alt="image" src="https://github.com/user-attachments/assets/426a2046-5c0c-4e29-bbbe-0bb609753c27" />
+
+# Code HTML
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Lab1 Halaman 2 - Hobi Burhan Isnain</title>
+    </head>
+    <body>
+
+<!-- judul utama -->
+    <h1>Hobi Saya</h1>
+    <p>Salah satu hobi utama saya adalah <b>nge-gym</b> dan melakukan olahraga fisik. 
+    Bagi saya, olahraga bukan hanya tentang melatih otot, tetapi juga menjaga kesehatan 
+    dan memberikan energi positif untuk aktivitas sehari-hari.</p>
+
+<!-- sub judul -->
+    <h2>Nge-Gym</h2>
+    <p>Di gym, saya biasanya melakukan latihan beban, kardio, serta stretching. 
+    Rutinitas ini membantu saya meningkatkan kekuatan fisik dan melatih disiplin diri.</p>
+
+    <h2>Olahraga Outdoor</h2>
+    <p>Selain nge-gym, saya suka jogging di pagi hari, workout home, dan bermain futsal. 
+    Aktivitas ini tidak hanya menyehatkan tubuh, tetapi juga menyenangkan karena bisa dilakukan bersama teman.</p>
+
+<!-- gambar hobi -->
+    <img src="gym.jpg" width="250" title="Latihan di Gym">
+    <img src="jogging.jpg" width="250" title="Jogging Pagi">
+
+<!-- navigasi balik -->
+    <nav>
+    <a href="lab1_tag_dasar.html">Kembali ke Halaman Utama</a>
+    </nav>
+
+    <hr>
+    <footer>
+    <p> 2025 - Burhan Isnain | Halaman 2</p>
+    </footer>
+
+    </body>
+    </html>
+
 Halaman ini fokusnya **ngejelasin hobi lebih detail**.  
  Judul `<h1>` tentang hobi saya.  
  Subjudul `<h2>` untuk ngebagi konten: "Nge-Gym" sama "Olahraga Outdoor".  
