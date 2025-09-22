@@ -56,19 +56,13 @@ yaitu ```<p>``` digunakan untuk membuat paragraf baru. Browser otomatis memberi 
 `<p>Ini paragraf kedua.</p>`
 `Baris pertama <br> Baris kedua `
 
-
-html
 3.Apa perbedaan atribut `title` dan `alt` pada tag `<img>`?
 `title` → teks yang muncul saat kursor diarahkan ke gambar (tooltip).  
 `alt` → teks alternatif yang muncul kalau gambar gagal dimuat (misalnya file gambar hilang). Selain itu, `alt` juga dipakai oleh screen reader (aksesibilitas).  
 
-```html
+
 Contoh:  
 `<img src="gym.jpg" title="Latihan Gym" alt="Gambar orang sedang fitness"> ```
-
-
-
-`---`
 
 4.Untuk mengatur ukuran gambar, digunakan atribut `width dan height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak?
 
