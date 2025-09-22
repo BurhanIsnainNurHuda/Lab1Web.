@@ -15,7 +15,8 @@ Project ini dibuat sebagai bagian dari praktikum Pemrograman Web.
 - `lab1_tag_dasar.html` → Halaman utama, isinya perkenalan singkat dan navigasi ke halaman lain.  
 - `lab1_halaman2.html` → Halaman kedua, isinya cerita lebih detail tentang **hobi saya (nge-gym, olahraga fisik, dll)**.  
 
-#  Penjelasan Singkat
+#  Penjelasan
+<img width="1915" height="680" alt="image" src="https://github.com/user-attachments/assets/282dcf25-b9ac-4b26-8cee-64ca550ce9cd" />
 
 #  lab1_tag_dasar.html
 Halaman ini bisa dibilang sebagai **pintu masuk**.  
