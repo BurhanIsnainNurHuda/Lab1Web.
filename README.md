@@ -39,7 +39,9 @@ Kalau dijalankan di browser:
 2. Klik menu navigasi → pindah ke `lab1_halaman2.html` buat lihat detail hobi.  
 
 Jawaban Pertanyaan
-1.Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+
+
+```1.Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?```
 
 Kalau kita ubah isi kode (misalnya mengganti teks, menambah paragraf, atau mengganti gambar) hasil di browser akan ikut berubah.
 Tapi kalau ada kesalahan penulisan tag (misalnya <p> ditulis <pp>, atau lupa menutup tag), biasanya:
