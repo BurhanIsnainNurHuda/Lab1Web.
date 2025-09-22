@@ -16,9 +16,11 @@ Project ini dibuat sebagai bagian dari praktikum Pemrograman Web.
 - `lab1_halaman2.html` → Halaman kedua, isinya cerita lebih detail tentang **hobi saya (nge-gym, olahraga fisik, dll)**.  
 
 #  Penjelasan
-<img width="1915" height="680" alt="image" src="https://github.com/user-attachments/assets/282dcf25-b9ac-4b26-8cee-64ca550ce9cd" />
 
 #  lab1_tag_dasar.html
+
+<img width="1915" height="680" alt="image" src="https://github.com/user-attachments/assets/09e2ff7a-b022-4bf9-8d62-9538bee925ad" />
+
 Halaman ini bisa dibilang sebagai **pintu masuk**.  
  Ada judul `<h1>` buat nunjukin nama.  
  Paragraf perkenalan singkat tentang diri saya.  
