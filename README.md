@@ -50,6 +50,8 @@ Tidak muncul pesan error langsung, tapi struktur HTML jadi tidak sesuai aturan.
 <p> digunakan untuk membuat paragraf baru. Browser otomatis memberi jarak (spasi) sebelum dan sesudah paragraf.
 <br> digunakan untuk membuat baris baru (line break) tanpa jarak tambahan. Jadi teks langsung turun ke bawah tapi masih dalam paragraf yang sama.
 Contoh:
+```html
+ 
 <p>Ini paragraf pertama.</p>
 <p>Ini paragraf kedua.</p>
 Baris pertama <br> Baris kedua
