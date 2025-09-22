@@ -1,6 +1,11 @@
 # Lab1Web.
-Tugas Pemograman Web1 Pertemuan 2, NIM 312410226
-.
+Tugas Pemograman Web1 Pertemuan 2
+   
+    Nama: Burhan Isnain Nur Huda
+    NIM: 312410226
+    Kelas: TI.24.A.2
+    Mata Kuliah: Pemograman Mobile 
+    
 #  Latihan HTML Dasar
 
 Repository ini berisi latihan membuat halaman web sederhana menggunakan **HTML dasar**.  
