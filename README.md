@@ -21,6 +21,44 @@ Project ini dibuat sebagai bagian dari praktikum Pemrograman Web.
 
 <img width="1915" height="680" alt="image" src="https://github.com/user-attachments/assets/09e2ff7a-b022-4bf9-8d62-9538bee925ad" />
 
+# Code Codingan
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Lab1 Tag Dasar - Profil Burhan Isnain</title>
+    </head>
+    <body>
+
+    <!-- judul utama -->
+    <h1>Burhan Isnain</h1>
+    <p>Halo, nama saya <b>Burhan Isnain Nur Huda, NIM 312410226</b>. Saya adalah mahasiswa yang aktif belajar 
+    dan juga memiliki hobi dalam bidang olahraga. 
+    Halaman ini merupakan pengantar singkat sebelum masuk ke pembahasan lebih detail tentang hobi saya.</p>
+
+    <!-- sub judul -->
+    <h2>Perkenalan Singkat</h2>
+    <p>Saya percaya bahwa menjaga kesehatan dan menyeimbangkan aktivitas sehari-hari 
+    sangatlah penting. Karena itu, saya selalu menyempatkan waktu untuk berolahraga.</p>
+
+    <!-- logo universitas -->
+    <img src="Logo_UPB.jpg" width="120" title="Logo Universitas Pelita Bangsa">
+
+     <!-- navigasi -->
+    <nav>
+    <a href="lab1_tag_dasar.html">Halaman Utama</a> |
+    <a href="lab1_halaman2.html">Hobi Saya</a>
+    </nav>
+
+    <hr>
+    <footer>
+    <p>2025 - Burhan Isnain Nur Huda</p>
+    </footer>
+
+    </body>
+    </html>
+ 
+
 Halaman ini bisa dibilang sebagai **pintu masuk**.  
  Ada judul `<h1>` buat nunjukin nama.  
  Paragraf perkenalan singkat tentang diri saya.  
