@@ -14,24 +14,24 @@ Project ini dibuat sebagai bagian dari praktikum Pemrograman Web.
 
 #  lab1_tag_dasar.html
 Halaman ini bisa dibilang sebagai **pintu masuk**.  
-- Ada judul `<h1>` buat nunjukin nama.  
-- Paragraf perkenalan singkat tentang diri saya.  
-- Logo kampus ditampilkan pakai `<img>`.  
-- Navigasi `<nav>` buat pindah ke halaman 2.  
-- Footer di bawah buat nandain hak cipta.  
+ Ada judul `<h1>` buat nunjukin nama.  
+ Paragraf perkenalan singkat tentang diri saya.  
+ Logo kampus ditampilkan pakai `<img>`.  
+ Navigasi `<nav>` buat pindah ke halaman 2.  
+ Footer di bawah buat nandain hak cipta.  
 
 #  lab1_halaman2.html
 Halaman ini fokusnya **ngejelasin hobi lebih detail**.  
-- Judul `<h1>` tentang hobi saya.  
-- Subjudul `<h2>` untuk ngebagi konten: "Nge-Gym" sama "Olahraga Outdoor".  
-- Ada paragraf cerita kenapa suka olahraga.  
-- Gambar olahraga biar tampilannya lebih hidup.  
-- Navigasi balik ke halaman utama.  
-- Footer biar rapi.  
+ Judul `<h1>` tentang hobi saya.  
+ Subjudul `<h2>` untuk ngebagi konten: "Nge-Gym" sama "Olahraga Outdoor".  
+ Ada paragraf cerita kenapa suka olahraga.  
+ Gambar olahraga biar tampilannya lebih hidup.  
+ Navigasi balik ke halaman utama.  
+ Footer biar rapi.  
 
 # Tujuan
-- Melatih penggunaan **tag dasar HTML** kayak `<h1>`, `<p>`, `<img>`, `<nav>`, dan `<footer>`.  
-- Belajar bikin struktur web sederhana dengan **multi-halaman**.  
+ Melatih penggunaan **tag dasar HTML** kayak `<h1>`, `<p>`, `<img>`, `<nav>`, dan `<footer>`.  
+ Belajar bikin struktur web sederhana dengan **multi-halaman**.  
 
 #  Preview
 Kalau dijalankan di browser:
@@ -47,9 +47,10 @@ Browser tetap berusaha menampilkan halaman, tapi tampilannya bisa jadi berantaka
 Tidak muncul pesan error langsung, tapi struktur HTML jadi tidak sesuai aturan.
 
 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-
 <p> digunakan untuk membuat paragraf baru. Browser otomatis memberi jarak (spasi) sebelum dan sesudah paragraf.
-
 <br> digunakan untuk membuat baris baru (line break) tanpa jarak tambahan. Jadi teks langsung turun ke bawah tapi masih dalam paragraf yang sama.
-
 Contoh:
+` <p>Ini paragraf pertama.</p> `
+`<p>Ini paragraf kedua.</p> `
+`Baris pertama <br> Baris kedua`
+
